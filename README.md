@@ -1,2 +1,2 @@
 # Mis_collabs
-Prácticas en Python
+Programas en python para prácticar Ruso
